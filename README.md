@@ -40,3 +40,9 @@ Even further along
 
 
 truly at the very end
+
+
+*this is in italics*
+
+
+**and this is in BOLD!!!!!1!1**
